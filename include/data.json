@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Google PageSpeed Insights Desktop",
+    "description": "Analyze with PageSpeed Insights Desktop. Get your PageSpeed score and use PageSpeed suggestions to make your web site faster through our online tool.",
+    "picture": "images/google-page-speed-insights.png",
+    "link": "https://developers.google.com/speed/pagespeed/insights/",
+	"active": true,
+    "fields": [
+      "Desktop"
+    ],
+    "value": [
+      100
+    ]
+  },
+  {
+    "title": "Google PageSpeed Insights Mobile",
+    "description": "Analyze with PageSpeed Insights Mobile. Get your PageSpeed score and use PageSpeed suggestions to make your web site faster through our online tool.",
+    "picture": "images/google-page-speed-insights.png",
+    "link": "https://developers.google.com/speed/pagespeed/insights/",
+	"active": true,
+    "fields": [
+      "Mobile"
+    ],
+    "value": [
+      100
+    ]
+  },
+    {
+    "title": "Google Lighthouse Desktop",
+    "description": "Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.",
+    "picture": "images/google-lighthouse.png",
+    "link": "https://developers.google.com/web/tools/lighthouse/",
+	"active": true,
+    "fields": [
+      "Performance",
+      "Accessibility",
+      "Best Practices",
+      "SEO"
+    ],
+    "value": [
+      50,
+      19,
+      21,
+      20
+    ]
+  },
+    {
+    "title": "Google Lighthouse Mobile",
+    "description": "Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.",
+    "picture": "images/google-lighthouse.png",
+    "link": "https://developers.google.com/web/tools/lighthouse/",
+	"active": true,
+    "fields": [
+      "Performance",
+      "Accessibility",
+      "Best Practices",
+      "SEO"
+    ],
+    "value": [
+      80,
+      60,
+      40,
+      20
+    ]
+  },
+  {
+    "title": "HIGH-TECH BRIDGE",
+    "description": "High-Tech Bridge is a global provider of application security testing and application security ratings for web and mobile applications.",
+    "picture": "images/high-tech-bridge.png",
+    "link": "https://www.immuniweb.com/ssl/",
+	"active": true,
+    "fields": [
+      "SSL Security",
+	  "Website Security"
+    ],
+    "value": [
+      0,
+	  0
+    ]
+  },
+  {
+    "title": "Qualys SSL Labs",
+    "description": "SSL server test deep analysis of the configuration of any SSL web server.",
+    "picture": "images/qualys-labs.png",
+    "link": "https://www.ssllabs.com/",
+	"active": true,
+    "fields": [
+      "SSL Security"
+    ],
+    "value": [
+      "A"
+    ]
+  },
+  {
+    "title": "Gift of Speed",
+    "description": "Testing and optimizing page speed is essential. Make use of the tools and techniques you can find on this website to optimize the performance of your website.",
+    "picture": "images/giftofspeed.png",
+    "link": "https://www.giftofspeed.com/",
+	"active": true,
+    "fields": [
+      "Website Speed"
+    ],
+    "value": [
+      60
+    ]
+  },
+  {
+    "title": "Pingdom",
+    "description": "Website speed test the page load time, analyze it, and find bottlenecks.",
+    "picture": "images/pingdom.png",
+    "link": "https://tools.pingdom.com/",
+	"active": true,
+    "fields": [
+      "Website Speed"
+    ],
+    "value": [
+      40
+    ]
+  },
+  {
+    "title": "GTmetrix",
+    "description": "GTmetrix is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow, GTmetrix generates scores for your pages.",
+    "picture": "images/gtmetrix.png",
+    "link": "https://gtmetrix.com/",
+	"active": true,
+    "fields": [
+      "Website Speed"
+    ],
+    "value": [
+      20
+    ]
+  },
+  {
+    "title": "Virustotal",
+    "description": "VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware. ",
+    "picture": "images/virustotal.png",
+    "link": "https://www.virustotal.com/en/",
+	"active": true,
+    "fields": [
+      "Website Speed"
+    ],
+    "value": [
+      15
+    ]
+  }
+]
