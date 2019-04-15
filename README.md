@@ -52,10 +52,15 @@ The above example would look like this:
 
 One more example, now with a service provider offering multiple "services".
 The key fields holds an array which correspond with the key value.
+
 Performance -> 50
+
 Accessibility -> 19
+
 Best Practices -> 21
+
 SEO -> 20
+
 
 ```
     {
@@ -80,7 +85,7 @@ SEO -> 20
 ```
 
 ## How to switch a service provider off?
-Easily turn of one or more service providers by changing the JSON object key "active" to false.
+Easily turn off one or more service providers by changing the JSON object key "active" to false.
 
 ## What if a service provider provides an alphabetic rating such as A?
 No problem! At the moment we assign the following values..
